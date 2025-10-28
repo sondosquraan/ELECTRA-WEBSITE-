@@ -20,3 +20,15 @@ At **Electra Control Systems**, I contributed as a **Software Developer and BMS 
 ---
 
 ✨ This project reflects my ability to combine **technical software development** with **building management system integration**, delivering efficient and visually appealing solutions.
+
+
+### 📫 Contact
+<a href="mailto:qraansondos@gmail.com">
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="25" height="25"/>
+</a>
+<a href="https://www.linkedin.com/in/sondosquraan/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/linkedin.png" width="25" height="25"/>
+</a>
+<a href="https://github.com/sondosquraan" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/github.png" width="25" height="25"/>
+</a>
